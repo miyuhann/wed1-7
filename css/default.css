@@ -9,17 +9,17 @@
       header{
       background-color: orange;
       }
-      #main1{
+     .box{
       background-color: green;
         width: 500px;
       }
-#main{
+.box{
   background-color: white;
    width: calc(100% - 200px);
         min-width: 500px;
   float: left;
       }
-      #main2{
+     .box{
       background-color: yellow;
         width: 500px;
           float: left;
