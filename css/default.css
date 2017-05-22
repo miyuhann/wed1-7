@@ -1,5 +1,5 @@
 @charset "utf-8";
-{
+*{
   margin:0;
     padding:0;
     }
@@ -15,10 +15,7 @@
         width: 100%;
         z-index: +1;
       }
-     .box{
-      background-color: green;
-        width: 500px;
-      }
+
 .box{
   background-color: red;
   color: black;
@@ -28,17 +25,13 @@
   float: left;
   overflow: scroll;
 }
-.box{
+#main{
   background-color: white;
    width: calc(100% - 200px);
         min-width: 500px;
   float: left;
       }
-     .box{
-      background-color: yellow;
-        width: 500px;
-          float: left;
-      }
+
       aside{
       background-color: blue;
         width: 200px;
