@@ -13,6 +13,12 @@
       background-color: green;
         width: 500px;
       }
+#main{
+  background-color: white;
+   width: calc(100% - 200px);
+        min-width: 500px;
+  float: left;
+      }
       #main2{
       background-color: yellow;
         width: 500px;
