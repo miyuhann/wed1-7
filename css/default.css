@@ -26,7 +26,7 @@
   float: left;
   overflow: scroll;
 }
-#main{
+.main{
   background-color: white;
    width: calc(100% - 200px);
         min-width: 500px;
